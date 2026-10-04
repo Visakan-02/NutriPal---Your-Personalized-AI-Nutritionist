@@ -1,0 +1,6 @@
+{
+  "name": "NutriPal - Personalized AI Nutritionist",
+  "description": "An interactive web application that generates hyper-personalized diet plans based on user biometrics and goals, featuring real-time BMI calculation, an interactive meal planner, and AI-powered insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
